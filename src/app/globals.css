@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0b5cad;
+  --color-primary-dark: #063d73;
+  --color-secondary: #ff8c00;
+  --color-accent: #38bdf8;
+  --color-whatsapp: #25d366;
+  --color-muted-foreground: #6b7280;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-poppins), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --packnix-sky: #38bdf8;
+  --packnix-muted: #f8f9fa;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-800;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-heading);
+  }
+}
+
+@layer utilities {
+  .section-padding {
+    @apply px-4 py-16 sm:px-6 lg:px-8 lg:py-24;
+  }
+
+  .glass-card {
+    @apply rounded-2xl border border-white/20 bg-white/70 shadow-lg backdrop-blur-md;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent;
+  }
+
+  .glow-cta {
+    box-shadow:
+      0 0 0 1px rgba(255, 140, 0, 0.35),
+      0 8px 32px rgba(255, 140, 0, 0.35);
+  }
+
+  .mesh-bg {
+    background-image:
+      linear-gradient(rgba(11, 92, 173, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(11, 92, 173, 0.03) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+
+  .mesh-section {
+    background-color: var(--packnix-muted);
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(11, 92, 173, 0.08) 1px, transparent 0),
+      radial-gradient(ellipse 60% 50% at 100% 0%, rgba(56, 189, 248, 0.12), transparent);
+    background-size: 24px 24px, auto;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}

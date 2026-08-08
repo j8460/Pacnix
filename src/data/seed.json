@@ -1,0 +1,1320 @@
+{
+  "site": {
+    "logo": "",
+    "logoDark": "",
+    "logoAlt": "Pacnix India",
+    "favicon": "",
+    "url": "https://www.packnix.in",
+    "locale": "en_IN",
+    "defaultTitle": "Pacnix India",
+    "titleTemplate": "%s | Pacnix India",
+    "defaultDescription": "Pacnix India — leading manufacturer of packaging tubes, poly tubes, and industrial polymer solutions for brands across India and global markets.",
+    "defaultOgImage": "/images/og/default.jpg"
+  },
+  "company": {
+    "brandName": "Pacnix India",
+    "legalName": "Pacnix India",
+    "tagline": "High Quality Packaging & Industrial Polymer Solutions",
+    "owner": "Managing Director (Placeholder)",
+    "hero": {
+      "headline": "High Quality Packaging & Industrial Polymer Solutions",
+      "subtitle": "Manufacturing excellence with innovation and quality — engineered for brands that demand precision.",
+      "backgroundImage": "/images/hero/manufacturing.jpg",
+      "ctaPrimary": "Explore Products",
+      "ctaSecondary": "Contact Us"
+    },
+    "about": {
+      "eyebrow": "About Company",
+      "title": "Engineering polymer packaging for modern industry",
+      "paragraphs": [
+        "Pacnix India is a leading manufacturer of packaging tubes, poly tubes, and industrial polymer products serving FMCG, pharmaceutical, cosmetic, and industrial sectors across India and export markets.",
+        "Our integrated facility combines extrusion, printing readiness, and quality assurance under one roof — enabling faster turnaround, consistent wall thickness, and packaging that protects your product and elevates your brand.",
+        "From standard HDPE and LDPE formats to custom co-extruded solutions, we partner with procurement and R&D teams to translate specifications into reliable, scalable supply."
+      ],
+      "highlights": [
+        "Packaging Tubes",
+        "Poly Tubes",
+        "Industrial Polymer Products",
+        "Custom Packaging Solutions"
+      ],
+      "mission": "To deliver precision polymer packaging that helps our customers launch faster, reduce waste, and build trust with end consumers.",
+      "vision": "To be the most responsive packaging partner for industrial and consumer brands in India — known for quality, sustainability-minded materials, and technical collaboration."
+    },
+    "contact": {
+      "address": "Plot No. XX, Industrial Area, Gujarat, India (Placeholder)",
+      "phone": "+91-XXXX-XXXXXX",
+      "email": "info@packnix.in",
+      "whatsapp": "910000000000",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.671!2d72.8777!3d19.076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDA0Jz33.6i02Mi03NC41Mi41LjA!5e0!3m2!1sen!2sin!4v1"
+    },
+    "stats": [
+      {
+        "label": "Years Experience",
+        "value": 18,
+        "suffix": "+"
+      },
+      {
+        "label": "Clients Served",
+        "value": 240,
+        "suffix": "+"
+      },
+      {
+        "label": "Product SKUs",
+        "value": 120,
+        "suffix": "+"
+      },
+      {
+        "label": "Countries Served",
+        "value": 12,
+        "suffix": "+"
+      }
+    ],
+    "coreValues": [
+      {
+        "title": "Quality First",
+        "description": "Every batch is validated against documented specifications with traceability from raw material to dispatch."
+      },
+      {
+        "title": "Innovation",
+        "description": "We invest in tooling, material grades, and process control to support next-generation packaging formats."
+      },
+      {
+        "title": "Partnership",
+        "description": "We work as an extension of your supply chain — transparent timelines, proactive communication, and joint problem-solving."
+      },
+      {
+        "title": "Integrity",
+        "description": "Ethical manufacturing, fair employment, and compliance with applicable standards guide every decision we make."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2008",
+        "title": "Foundation",
+        "description": "Pacnix India began as a regional extrusion unit focused on industrial poly tubes for fluid transfer applications."
+      },
+      {
+        "year": "2014",
+        "title": "Packaging expansion",
+        "description": "Added flexible packaging tube lines and QA laboratory capabilities for FMCG and pharma clients."
+      },
+      {
+        "year": "2019",
+        "title": "Automation upgrade",
+        "description": "Modernized production with inline inspection, automated cutting, and expanded warehouse capacity."
+      },
+      {
+        "year": "2024",
+        "title": "Sustainability roadmap",
+        "description": "Pilot programs for recycled content blends and lightweighting initiatives across key SKU families."
+      }
+    ],
+    "whyChooseUs": [
+      {
+        "title": "Integrated Manufacturing",
+        "description": "Extrusion, finishing, and QA in one campus for shorter lead times and tighter process control.",
+        "icon": "Factory"
+      },
+      {
+        "title": "Material Expertise",
+        "description": "HDPE, LDPE, and specialty grades selected for barrier, flexibility, and regulatory requirements.",
+        "icon": "FlaskConical"
+      },
+      {
+        "title": "Custom Tooling",
+        "description": "Diameter, shoulder, and cap compatibility tailored to your filling lines and brand guidelines.",
+        "icon": "Settings2"
+      },
+      {
+        "title": "Export-Ready Documentation",
+        "description": "COA support, batch records, and certificate packs prepared for domestic and international buyers.",
+        "icon": "FileCheck2"
+      }
+    ],
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://youtube.com"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com"
+      }
+    ],
+    "navigation": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Products",
+        "href": "/products"
+      },
+      {
+        "label": "Industries",
+        "href": "/industries"
+      },
+      {
+        "label": "Infrastructure",
+        "href": "/infrastructure"
+      },
+      {
+        "label": "Quality",
+        "href": "/quality"
+      },
+      {
+        "label": "Gallery",
+        "href": "/gallery"
+      },
+      {
+        "label": "Downloads",
+        "href": "/downloads"
+      },
+      {
+        "label": "Certificates",
+        "href": "/certificates"
+      },
+      {
+        "label": "Blogs",
+        "href": "/blogs"
+      },
+      {
+        "label": "Career",
+        "href": "/career"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "packaging-tubes",
+      "name": "Packaging Tubes",
+      "description": "Consumer-ready extruded tubes for creams, gels, and pastes."
+    },
+    {
+      "id": "industrial-tubes",
+      "name": "Industrial Tubes",
+      "description": "Heavy-duty formats for fluids, adhesives, and shop-floor use."
+    },
+    {
+      "id": "hdpe-tubes",
+      "name": "HDPE Tubes",
+      "description": "High-density polyethylene tubes with excellent stiffness and chemical resistance."
+    },
+    {
+      "id": "ldpe-tubes",
+      "name": "LDPE Tubes",
+      "description": "Flexible low-density formats for squeezable applications."
+    },
+    {
+      "id": "flexible-tubes",
+      "name": "Flexible Tubes",
+      "description": "Soft-touch extrusions optimized for repeated flex cycles."
+    },
+    {
+      "id": "custom-tubes",
+      "name": "Custom Tubes",
+      "description": "Bespoke diameters, shoulders, and decoration-ready surfaces."
+    },
+    {
+      "id": "plastic-components",
+      "name": "Plastic Packaging Components",
+      "description": "Caps, shoulders, and supporting polymer parts."
+    },
+    {
+      "id": "protective-packaging",
+      "name": "Protective Packaging Products",
+      "description": "Guards, sleeves, and transit protection for sensitive goods."
+    }
+  ],
+  "products": [
+    {
+      "slug": "premium-laminate-tube-35mm",
+      "name": "Premium Laminate Tube 35mm",
+      "categoryId": "packaging-tubes",
+      "featured": true,
+      "summary": "35mm extruded tube for high-fill creams with consistent wall profile.",
+      "description": "Engineered for cosmetic and OTC brands that require stable ovality and smooth decoration surfaces. Suitable for hot-fill compatible programs after validation.",
+      "features": [
+        "Consistent wall thickness",
+        "Decoration-ready surface",
+        "Multiple shoulder options",
+        "Batch traceability"
+      ],
+      "applications": [
+        "Face creams",
+        "Sun care",
+        "Pharmaceutical ointments"
+      ],
+      "benefits": [
+        "Reduced line stoppages",
+        "Premium shelf presence",
+        "Scalable SKU family"
+      ],
+      "specifications": [
+        {
+          "key": "Diameter",
+          "value": "35 mm"
+        },
+        {
+          "key": "Material",
+          "value": "Co-ex PE blend"
+        },
+        {
+          "key": "Length range",
+          "value": "100–180 mm"
+        },
+        {
+          "key": "MOQ",
+          "value": "10,000 pcs (indicative)"
+        }
+      ],
+      "images": [
+        "/images/products/packaging-1.jpg",
+        "/images/products/packaging-1b.jpg"
+      ],
+      "imageAlt": "Extruded packaging tube on production line",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "flex-soft-touch-tube",
+        "hdpe-industrial-cartridge"
+      ]
+    },
+    {
+      "slug": "standard-packaging-tube-25mm",
+      "name": "Standard Packaging Tube 25mm",
+      "categoryId": "packaging-tubes",
+      "featured": true,
+      "summary": "Compact 25mm format for travel-size and sampler programs.",
+      "description": "Ideal for promotional packs and precision dosing products. Compatible with standard flip-top and screw cap families.",
+      "features": [
+        "Lightweight",
+        "Sampler friendly",
+        "Quick change tooling"
+      ],
+      "applications": [
+        "Sample sachet alternatives",
+        "Lip care",
+        "Topical gels"
+      ],
+      "benefits": [
+        "Lower freight cost",
+        "Fast SKU launches"
+      ],
+      "specifications": [
+        {
+          "key": "Diameter",
+          "value": "25 mm"
+        },
+        {
+          "key": "Material",
+          "value": "Monolayer PE"
+        },
+        {
+          "key": "MOQ",
+          "value": "15,000 pcs (indicative)"
+        }
+      ],
+      "images": [
+        "/images/products/packaging-2.jpg"
+      ],
+      "imageAlt": "Small diameter packaging tubes",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "premium-laminate-tube-35mm"
+      ]
+    },
+    {
+      "slug": "industrial-fluid-transfer-tube",
+      "name": "Industrial Fluid Transfer Tube",
+      "categoryId": "industrial-tubes",
+      "featured": true,
+      "summary": "Reinforced PE tube for industrial fluid and lubricant transfer.",
+      "description": "Built for manufacturing environments requiring abrasion resistance and coil memory stability.",
+      "features": [
+        "Abrasion resistant",
+        "Coil set stability",
+        "Custom cut lengths"
+      ],
+      "applications": [
+        "Coolant lines",
+        "Lubricant kits",
+        "Maintenance packs"
+      ],
+      "benefits": [
+        "Long service life",
+        "Reduced replacement frequency"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "HDPE"
+        },
+        {
+          "key": "ID range",
+          "value": "6–12 mm"
+        },
+        {
+          "key": "Color",
+          "value": "Natural / custom"
+        }
+      ],
+      "images": [
+        "/images/products/industrial-1.jpg"
+      ],
+      "imageAlt": "Industrial polymer tubing coils",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "hdpe-industrial-cartridge"
+      ]
+    },
+    {
+      "slug": "chemical-resistant-industrial-tube",
+      "name": "Chemical Resistant Industrial Tube",
+      "categoryId": "industrial-tubes",
+      "featured": false,
+      "summary": "Format for adhesives, sealants, and specialty chemical dispensing.",
+      "description": "Material grade selected for compatibility with common industrial chemistries. Supports crimp and seal options.",
+      "features": [
+        "Chemical compatibility review",
+        "Crimp sealing",
+        "Custom labeling area"
+      ],
+      "applications": [
+        "Adhesives",
+        "Sealants",
+        "Industrial cleaners"
+      ],
+      "benefits": [
+        "Safer shop-floor handling",
+        "Leak resistance"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "HDPE / LDPE options"
+        },
+        {
+          "key": "Working temp",
+          "value": "Up to 45°C (grade dependent)"
+        }
+      ],
+      "images": [
+        "/images/products/industrial-2.jpg"
+      ],
+      "imageAlt": "Industrial chemical packaging tubes",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "industrial-fluid-transfer-tube"
+      ]
+    },
+    {
+      "slug": "hdpe-industrial-cartridge",
+      "name": "HDPE Industrial Cartridge",
+      "categoryId": "hdpe-tubes",
+      "featured": true,
+      "summary": "Stiff HDPE cartridge for high-viscosity compounds.",
+      "description": "Maintains shape under filling pressure for thick pastes and greases.",
+      "features": [
+        "High stiffness",
+        "Shoulder reinforcement options"
+      ],
+      "applications": [
+        "Greases",
+        "Construction compounds",
+        "Automotive pastes"
+      ],
+      "benefits": [
+        "Stable dispensing",
+        "Stackable logistics"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "HDPE MFI grade"
+        },
+        {
+          "key": "Diameter",
+          "value": "40–50 mm"
+        }
+      ],
+      "images": [
+        "/images/products/hdpe-1.jpg"
+      ],
+      "imageAlt": "HDPE cartridge tubes",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "industrial-fluid-transfer-tube"
+      ]
+    },
+    {
+      "slug": "hdpe-liner-tube-food-grade",
+      "name": "HDPE Liner Tube (Food Grade Program)",
+      "categoryId": "hdpe-tubes",
+      "featured": false,
+      "summary": "Food-contact HDPE format subject to compliance review.",
+      "description": "Designed for food and beverage adjacent packaging after material compliance sign-off.",
+      "features": [
+        "Compliance documentation support",
+        "Clean-room packing option"
+      ],
+      "applications": [
+        "Condiment sampling",
+        "Ingredient kits"
+      ],
+      "benefits": [
+        "Audit-ready records"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "Food-grade HDPE (validated lot)"
+        },
+        {
+          "key": "MOQ",
+          "value": "Project based"
+        }
+      ],
+      "images": [
+        "/images/products/hdpe-2.jpg"
+      ],
+      "imageAlt": "Food grade HDPE packaging",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "ldpe-squeeze-tube"
+      ]
+    },
+    {
+      "slug": "ldpe-squeeze-tube",
+      "name": "LDPE Squeeze Tube",
+      "categoryId": "ldpe-tubes",
+      "featured": true,
+      "summary": "Highly flexible LDPE tube for effortless consumer squeezing.",
+      "description": "Optimized memory recovery after repeated use cycles.",
+      "features": [
+        "Soft touch",
+        "Excellent squeeze recovery"
+      ],
+      "applications": [
+        "Toothpaste style formats",
+        "Hair color",
+        "Art supplies"
+      ],
+      "benefits": [
+        "Consumer ease",
+        "Brand differentiation"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "LDPE"
+        },
+        {
+          "key": "Diameter",
+          "value": "30–45 mm"
+        }
+      ],
+      "images": [
+        "/images/products/ldpe-1.jpg"
+      ],
+      "imageAlt": "Flexible LDPE squeeze tubes",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "flex-soft-touch-tube"
+      ]
+    },
+    {
+      "slug": "ldpe-transport-coil",
+      "name": "LDPE Transport Coil",
+      "categoryId": "ldpe-tubes",
+      "featured": false,
+      "summary": "Continuous LDPE coil for OEM integration.",
+      "description": "Supplied in cut-to-length or coil form for automated assembly partners.",
+      "features": [
+        "Custom coil OD",
+        "Perforation options"
+      ],
+      "applications": [
+        "OEM assembly",
+        "Irrigation kits"
+      ],
+      "benefits": [
+        "Line integration flexibility"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "LDPE"
+        },
+        {
+          "key": "Supply form",
+          "value": "Coil / cut length"
+        }
+      ],
+      "images": [
+        "/images/products/ldpe-2.jpg"
+      ],
+      "imageAlt": "LDPE tubing coils in warehouse",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "industrial-fluid-transfer-tube"
+      ]
+    },
+    {
+      "slug": "flex-soft-touch-tube",
+      "name": "Flex Soft-Touch Tube",
+      "categoryId": "flexible-tubes",
+      "featured": true,
+      "summary": "Multi-layer flexible tube with premium haptic feel.",
+      "description": "Combines barrier layers with outer soft-touch aesthetics for cosmetic lines.",
+      "features": [
+        "Soft-touch outer layer",
+        "Barrier options"
+      ],
+      "applications": [
+        "Premium skincare",
+        "Serum gels"
+      ],
+      "benefits": [
+        "Luxury unboxing feel"
+      ],
+      "specifications": [
+        {
+          "key": "Structure",
+          "value": "3-layer co-ex"
+        },
+        {
+          "key": "Decoration",
+          "value": "Offset / screen ready"
+        }
+      ],
+      "images": [
+        "/images/products/flexible-1.jpg"
+      ],
+      "imageAlt": "Soft touch flexible cosmetic tube",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "premium-laminate-tube-35mm"
+      ]
+    },
+    {
+      "slug": "flex-medical-style-tube",
+      "name": "Flex Medical-Style Tube",
+      "categoryId": "flexible-tubes",
+      "featured": false,
+      "summary": "Flexible format for topical medical and wellness products.",
+      "description": "Supports tamper-evident cap systems after compatibility testing.",
+      "features": [
+        "Tamper-evident ready",
+        "Clean finishing"
+      ],
+      "applications": [
+        "Topical wellness",
+        "Dermatology samples"
+      ],
+      "benefits": [
+        "Patient-friendly dispensing"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "PE co-ex"
+        },
+        {
+          "key": "Sterile packing",
+          "value": "On request"
+        }
+      ],
+      "images": [
+        "/images/products/flexible-2.jpg"
+      ],
+      "imageAlt": "Medical style flexible tube packaging",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "flex-soft-touch-tube"
+      ]
+    },
+    {
+      "slug": "custom-shoulder-tube-program",
+      "name": "Custom Shoulder Tube Program",
+      "categoryId": "custom-tubes",
+      "featured": true,
+      "summary": "Bespoke shoulder geometry matched to your cap and artwork.",
+      "description": "Joint development from CAD to trial shots with documented dimensional reports.",
+      "features": [
+        "CAD review",
+        "Trial batch",
+        "Dimensional report"
+      ],
+      "applications": [
+        "Brand launches",
+        "Line extensions"
+      ],
+      "benefits": [
+        "Perfect cap fit",
+        "Faster market entry"
+      ],
+      "specifications": [
+        {
+          "key": "Tooling lead",
+          "value": "4–6 weeks (indicative)"
+        },
+        {
+          "key": "Artwork",
+          "value": "AI / PDF vector preferred"
+        }
+      ],
+      "images": [
+        "/images/products/custom-1.jpg"
+      ],
+      "imageAlt": "Custom molded tube shoulder detail",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "premium-laminate-tube-35mm"
+      ]
+    },
+    {
+      "slug": "custom-diameter-development",
+      "name": "Custom Diameter Development",
+      "categoryId": "custom-tubes",
+      "featured": false,
+      "summary": "Non-standard diameters for unique filling equipment.",
+      "description": "Engineering study includes line speed, wall thickness, and cooling profile recommendations.",
+      "features": [
+        "FEA consultation",
+        "Prototype extrusion"
+      ],
+      "applications": [
+        "Legacy line retrofits",
+        "Innovation labs"
+      ],
+      "benefits": [
+        "Equipment alignment"
+      ],
+      "specifications": [
+        {
+          "key": "Diameter range",
+          "value": "19–60 mm (project)"
+        },
+        {
+          "key": "MOQ",
+          "value": "Negotiated"
+        }
+      ],
+      "images": [
+        "/images/products/custom-2.jpg"
+      ],
+      "imageAlt": "Engineering custom tube diameter",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "custom-shoulder-tube-program"
+      ]
+    },
+    {
+      "slug": "flip-top-cap-component",
+      "name": "Flip-Top Cap Component",
+      "categoryId": "plastic-components",
+      "featured": false,
+      "summary": "Molded flip-top caps paired with Pacnix India tube shoulders.",
+      "description": "Color-matched caps with hinge fatigue testing available on request.",
+      "features": [
+        "Color matching",
+        "Hinge testing"
+      ],
+      "applications": [
+        "Personal care",
+        "OTC"
+      ],
+      "benefits": [
+        "Single-source supply"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "PP"
+        },
+        {
+          "key": "Finish",
+          "value": "Gloss / matte"
+        }
+      ],
+      "images": [
+        "/images/products/components-1.jpg"
+      ],
+      "imageAlt": "Plastic flip top caps for tubes",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "premium-laminate-tube-35mm"
+      ]
+    },
+    {
+      "slug": "shoulder-insert-component",
+      "name": "Shoulder Insert Component",
+      "categoryId": "plastic-components",
+      "featured": false,
+      "summary": "Precision shoulder inserts for multi-part tube systems.",
+      "description": "Tight tolerance molding for leak integrity at the shoulder joint.",
+      "features": [
+        "Leak test protocol",
+        "Insert molding"
+      ],
+      "applications": [
+        "Dual-compartment concepts",
+        "Specialty dispensers"
+      ],
+      "benefits": [
+        "Assembly reliability"
+      ],
+      "specifications": [
+        {
+          "key": "Tolerance",
+          "value": "±0.1 mm critical zones"
+        },
+        {
+          "key": "Material",
+          "value": "PE / PP"
+        }
+      ],
+      "images": [
+        "/images/products/components-2.jpg"
+      ],
+      "imageAlt": "Tube shoulder plastic component",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "flip-top-cap-component"
+      ]
+    },
+    {
+      "slug": "transit-sleeve-protector",
+      "name": "Transit Sleeve Protector",
+      "categoryId": "protective-packaging",
+      "featured": true,
+      "summary": "Polymer sleeve protecting decorated tubes in transit.",
+      "description": "Reusable or single-use sleeves to prevent scuffing during distribution.",
+      "features": [
+        "Recycled content option",
+        "Custom print"
+      ],
+      "applications": [
+        "E-commerce fulfillment",
+        "Export cartons"
+      ],
+      "benefits": [
+        "Lower damage claims"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "PE sleeve"
+        },
+        {
+          "key": "Thickness",
+          "value": "0.8–1.2 mm"
+        }
+      ],
+      "images": [
+        "/images/products/protective-1.jpg"
+      ],
+      "imageAlt": "Protective packaging sleeves",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "corner-guard-pack"
+      ]
+    },
+    {
+      "slug": "corner-guard-pack",
+      "name": "Corner Guard Pack",
+      "categoryId": "protective-packaging",
+      "featured": false,
+      "summary": "Molded corner guards for palletized industrial shipments.",
+      "description": "Impact absorbing guards for strapped pallets and heavy cartons.",
+      "features": [
+        "Nestable design",
+        "UV stabilized grade"
+      ],
+      "applications": [
+        "Warehouse logistics",
+        "Export pallets"
+      ],
+      "benefits": [
+        "Reduced edge damage"
+      ],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": "HDPE"
+        },
+        {
+          "key": "Pack size",
+          "value": "100 pcs / carton"
+        }
+      ],
+      "images": [
+        "/images/products/protective-2.jpg"
+      ],
+      "imageAlt": "Plastic corner guards for shipping",
+      "cataloguePath": "/downloads/packnix-catalogue.pdf",
+      "relatedSlugs": [
+        "transit-sleeve-protector"
+      ]
+    }
+  ],
+  "industries": [
+    {
+      "id": "packaging",
+      "slug": "packaging",
+      "name": "Packaging",
+      "icon": "Package",
+      "description": "Primary and secondary packaging formats for tubes, caps, and protective components."
+    },
+    {
+      "id": "pharmaceutical",
+      "slug": "pharmaceutical",
+      "name": "Pharmaceutical",
+      "icon": "Pill",
+      "description": "Controlled-wall packaging suitable for ointments, gels, and topical applications."
+    },
+    {
+      "id": "food",
+      "slug": "food",
+      "name": "Food",
+      "icon": "UtensilsCrossed",
+      "description": "Food-contact polymer solutions with consistency for filling and logistics."
+    },
+    {
+      "id": "cosmetics",
+      "slug": "cosmetics",
+      "name": "Cosmetics",
+      "icon": "Sparkles",
+      "description": "Premium-feel tubes and components for skincare, haircare, and color cosmetics."
+    },
+    {
+      "id": "chemical",
+      "slug": "chemical",
+      "name": "Chemical",
+      "icon": "Beaker",
+      "description": "Robust tubes and industrial formats for adhesives, sealants, and specialty chemicals."
+    },
+    {
+      "id": "automotive",
+      "slug": "automotive",
+      "name": "Automotive",
+      "icon": "Car",
+      "description": "Protective packaging and polymer components for aftermarket and OEM supply chains."
+    },
+    {
+      "id": "industrial-manufacturing",
+      "slug": "industrial-manufacturing",
+      "name": "Industrial Manufacturing",
+      "icon": "Cog",
+      "description": "Transfer, protection, and kitting solutions for shop-floor and MRO programs."
+    },
+    {
+      "id": "fmcg",
+      "slug": "fmcg",
+      "name": "FMCG",
+      "icon": "ShoppingBag",
+      "description": "High-volume tube programs with stable dimensions for automated filling lines."
+    },
+    {
+      "id": "agriculture",
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "icon": "Sprout",
+      "description": "Durable packaging for agrochemical concentrates and farm consumables."
+    },
+    {
+      "id": "healthcare",
+      "slug": "healthcare",
+      "name": "Healthcare",
+      "icon": "HeartPulse",
+      "description": "Reliable polymer packaging supporting clinics, diagnostics, and wellness brands."
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "plant",
+      "title": "Modern Manufacturing Plant",
+      "description": "Climate-controlled production halls designed for continuous extrusion with segregated material storage.",
+      "image": "/images/infrastructure/plant.jpg",
+      "imageAlt": "Exterior of modern manufacturing plant"
+    },
+    {
+      "id": "machinery",
+      "title": "Precision Extrusion Machinery",
+      "description": "Multi-line extruders with inline monitoring for wall thickness and line speed stability.",
+      "image": "/images/infrastructure/machinery.jpg",
+      "imageAlt": "Industrial extrusion machinery"
+    },
+    {
+      "id": "warehouse",
+      "title": "Warehouse & Logistics",
+      "description": "Organized warehousing with FIFO dispatch lanes and export packing stations.",
+      "image": "/images/infrastructure/warehouse.jpg",
+      "imageAlt": "Industrial warehouse with shelving"
+    },
+    {
+      "id": "production",
+      "title": "Automated Production Line",
+      "description": "Cutting, coding, and collation stations integrated for high-volume SKU runs.",
+      "image": "/images/infrastructure/production.jpg",
+      "imageAlt": "Automated factory production line"
+    },
+    {
+      "id": "qa-lab",
+      "title": "Quality Testing Laboratory",
+      "description": "In-house lab for dimensional checks, seal integrity, and material verification.",
+      "image": "/images/infrastructure/lab.jpg",
+      "imageAlt": "Quality control laboratory"
+    },
+    {
+      "id": "automation",
+      "title": "Process Automation",
+      "description": "SCADA-linked equipment with alarm thresholds to protect product consistency.",
+      "image": "/images/infrastructure/automation.jpg",
+      "imageAlt": "Factory automation control screens"
+    }
+  ],
+  "quality": {
+    "intro": "Quality is embedded at every stage — from incoming resin checks to final dispatch audit. Our QA framework aligns with ISO-style process discipline and customer-specific validation protocols.",
+    "pillars": [
+      {
+        "title": "Quality Assurance",
+        "description": "Documented SOPs, change control, and periodic internal audits across production and warehouse.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Testing Process",
+        "description": "Dimensional, visual, and functional tests at defined AQL levels with retain samples.",
+        "icon": "Microscope"
+      },
+      {
+        "title": "ISO Standards",
+        "description": "Management system practices modeled on ISO 9001 principles with continuous improvement cycles.",
+        "icon": "Award"
+      },
+      {
+        "title": "Inspection",
+        "description": "Inline and final inspection with traceable batch codes linked to production records.",
+        "icon": "ScanLine"
+      },
+      {
+        "title": "Laboratory",
+        "description": "Calibrated instruments for melt flow, hardness, and seal integrity verification.",
+        "icon": "FlaskConical"
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "CAPA tracking, complaint response SLAs, and quarterly business reviews for key accounts.",
+        "icon": "HeartHandshake"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Incoming material verification",
+        "description": "Resin certificates reviewed and sampled before release to production silos."
+      },
+      {
+        "step": 2,
+        "title": "In-process monitoring",
+        "description": "Line parameters logged with automatic stops on out-of-spec wall thickness."
+      },
+      {
+        "step": 3,
+        "title": "Finished goods testing",
+        "description": "Random sampling per batch with dimensional and functional checks."
+      },
+      {
+        "step": 4,
+        "title": "Release & traceability",
+        "description": "Batch labels, COA preparation, and secure storage until dispatch authorization."
+      }
+    ],
+    "standards": [
+      "Process alignment with ISO 9001 principles",
+      "Good Manufacturing Practices for supported programs",
+      "Customer-specific validation protocols",
+      "Environmental and safety compliance per local regulations"
+    ]
+  },
+  "gallery": [
+    {
+      "id": "g1",
+      "category": "Factory",
+      "src": "/images/gallery/factory-1.jpg",
+      "alt": "Wide view of packaging manufacturing floor",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"ThisisEngineering\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/raengi0-NBg0\"}"
+    },
+    {
+      "id": "g2",
+      "category": "Factory",
+      "src": "/images/gallery/factory-2.jpg",
+      "alt": "Engineers reviewing production metrics",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Christina @ wocintechchat.com\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/Oalh2MojUuk\"}"
+    },
+    {
+      "id": "g3",
+      "category": "Products",
+      "src": "/images/gallery/products-1.jpg",
+      "alt": "Assorted polymer packaging tubes",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Anne Nygård\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/3uA-fTfb3Do\"}"
+    },
+    {
+      "id": "g4",
+      "category": "Products",
+      "src": "/images/gallery/products-2.jpg",
+      "alt": "Plastic components on conveyor",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Possessed Photography\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/nDJ1wD_lw8Y\"}"
+    },
+    {
+      "id": "g5",
+      "category": "Machines",
+      "src": "/images/gallery/machines-1.jpg",
+      "alt": "CNC and industrial equipment in plant",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Jesse Collins\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/6cUi0GYSERw\"}"
+    },
+    {
+      "id": "g6",
+      "category": "Machines",
+      "src": "/images/gallery/machines-2.jpg",
+      "alt": "Robotic arm on assembly line",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Lukas Blazek\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/mjRwhvq8E2A\"}"
+    },
+    {
+      "id": "g7",
+      "category": "Team",
+      "src": "/images/gallery/team-1.jpg",
+      "alt": "Operations team meeting in factory office",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Austin Distel\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/744oGeqpxPQ\"}"
+    },
+    {
+      "id": "g8",
+      "category": "Team",
+      "src": "/images/gallery/team-2.jpg",
+      "alt": "Technician inspecting production line",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"ThisisEngineering\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/46UsUXyz8pk\"}"
+    },
+    {
+      "id": "g9",
+      "category": "Warehouse",
+      "src": "/images/gallery/warehouse-1.jpg",
+      "alt": "High bay warehouse with pallet racks",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"Bernd Dittrich\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/64GFErKFzPE\"}"
+    },
+    {
+      "id": "g10",
+      "category": "Warehouse",
+      "src": "/images/gallery/warehouse-2.jpg",
+      "alt": "Forklift moving goods in warehouse",
+      "attribution": "{\"source\":\"Unsplash\",\"author\":\"CHUTTERSNAP\",\"license\":\"Unsplash License\",\"sourceUrl\":\"https://unsplash.com/photos/kyCNGGKCvyw\"}"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "iso",
+      "title": "ISO 9001 (Sample)",
+      "type": "ISO",
+      "description": "Placeholder certificate representing quality management alignment. Replace with your issued certificate.",
+      "thumbnail": "/images/certificates/iso.jpg",
+      "filePath": "/downloads/certificate-iso-sample.pdf",
+      "isPlaceholder": true
+    },
+    {
+      "id": "msme",
+      "title": "MSME Registration (Sample)",
+      "type": "MSME",
+      "description": "Placeholder MSME registration document for layout demonstration.",
+      "thumbnail": "/images/certificates/msme.jpg",
+      "filePath": "/downloads/certificate-msme-sample.pdf",
+      "isPlaceholder": true
+    },
+    {
+      "id": "gst",
+      "title": "GST Registration (Sample)",
+      "type": "GST",
+      "description": "Placeholder GST certificate preview — update with official registration scan.",
+      "thumbnail": "/images/certificates/gst.jpg",
+      "filePath": "/downloads/certificate-gst-sample.pdf",
+      "isPlaceholder": true
+    },
+    {
+      "id": "quality",
+      "title": "Quality Policy Statement (Sample)",
+      "type": "Quality",
+      "description": "Internal quality policy summary for customer audits.",
+      "thumbnail": "/images/certificates/quality.jpg",
+      "filePath": "/downloads/certificate-quality-sample.pdf",
+      "isPlaceholder": true
+    }
+  ],
+  "downloads": [
+    {
+      "id": "catalogue",
+      "title": "Product Catalogue",
+      "description": "Overview of Pacnix India tube families, materials, and indicative specifications.",
+      "category": "Catalogue",
+      "filePath": "/downloads/packnix-catalogue.pdf"
+    },
+    {
+      "id": "brochure",
+      "title": "Company Brochure",
+      "description": "Pacnix India capabilities, infrastructure, and partnership models.",
+      "category": "Brochure",
+      "filePath": "/downloads/packnix-brochure.pdf"
+    },
+    {
+      "id": "datasheet",
+      "title": "Technical Datasheet Template",
+      "description": "Sample datasheet layout for HDPE industrial formats.",
+      "category": "Technical",
+      "filePath": "/downloads/technical-datasheet-sample.pdf"
+    },
+    {
+      "id": "certs-pack",
+      "title": "Compliance Pack (Sample)",
+      "description": "Bundle placeholder for certificates shared during vendor onboarding.",
+      "category": "Certificates",
+      "filePath": "/downloads/compliance-pack-sample.pdf"
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "lightweighting-hdpe-packaging-tubes",
+      "title": "Lightweighting HDPE Packaging Tubes Without Compromising Strength",
+      "excerpt": "How material distribution and shoulder design influence drop performance in transit.",
+      "body": "<p>Brand teams face dual pressure: reduce polymer usage for sustainability reporting while maintaining stack strength and consumer feel. At Pacnix India, lightweighting projects begin with a finite-element informed review of wall thickness maps—not a uniform percentage reduction.</p><p>We model filling pressures, cap engagement torque, and typical e-commerce drop orientations. Pilot runs validate ovality recovery after compression and seal integrity after temperature cycling.</p><p>Early collaboration with marketing and procurement prevents late-stage artwork changes. Documented trial batches give leadership confidence to scale.</p>",
+      "category": "Manufacturing Insights",
+      "publishedAt": "2026-03-12",
+      "author": "Pacnix India Technical Team",
+      "readMinutes": 6,
+      "image": "/images/blog/blog-1.jpg",
+      "imageAlt": "Engineer reviewing polymer tube samples"
+    },
+    {
+      "slug": "recycled-content-flexible-tubes",
+      "title": "Recycled Content in Flexible Tubes: A Practical Roadmap",
+      "excerpt": "Balancing aesthetics, barrier needs, and supplier documentation for PCR blends.",
+      "body": "<p>Post-consumer resin (PCR) programs require clarity on appearance limits, odor thresholds, and regulatory statements for target markets. We recommend a tiered approach: start with non-food adjacent SKUs, establish color acceptance panels, then expand.</p><p>Each lot retains material certificates and blend ratios for customer audits. Decoration methods may need adjustment—our prepress team shares ink adhesion guidance early.</p>",
+      "category": "Packaging Trends",
+      "publishedAt": "2026-02-28",
+      "author": "Pacnix India Sustainability Cell",
+      "readMinutes": 5,
+      "image": "/images/blog/blog-2.jpg",
+      "imageAlt": "Recycled plastic pellets and packaging"
+    },
+    {
+      "slug": "automating-inline-tube-inspection",
+      "title": "Automating Inline Tube Inspection on High-Speed Lines",
+      "excerpt": "Vision and laser gauging reduce scrap while improving dimensional Cpk.",
+      "body": "<p>Manual sampling alone cannot catch short bursts of wall variation at elevated line speeds. Inline gauging integrates with line drives to divert suspect sections before collation.</p><p>Implementation includes calibration routines, operator training, and alignment with existing AQL release rules—automation augments, not replaces, final batch review.</p>",
+      "category": "Industrial News",
+      "publishedAt": "2026-01-18",
+      "author": "Pacnix India Operations",
+      "readMinutes": 7,
+      "image": "/images/blog/blog-3.jpg",
+      "imageAlt": "Automated inspection on factory line"
+    },
+    {
+      "slug": "pharma-topical-tube-compliance-basics",
+      "title": "Topical Pharma Tubes: Compliance Basics for Procurement",
+      "excerpt": "Questions to ask your tube supplier before artwork lock.",
+      "body": "<p>Regulatory expectations vary by market, but common themes include material suitability, change control, and retain samples. Procurement should request validation history for similar product classes and cap seal methodologies.</p><p>Pacnix India supports structured onboarding: material declarations, trial protocols, and batch record templates aligned to your quality agreement.</p>",
+      "category": "Manufacturing Insights",
+      "publishedAt": "2025-12-05",
+      "author": "Pacnix India QA",
+      "readMinutes": 8,
+      "image": "/images/blog/blog-4.jpg",
+      "imageAlt": "Pharmaceutical packaging quality review"
+    }
+  ],
+  "careers": [
+    {
+      "id": "production-engineer",
+      "title": "Production Engineer — Extrusion",
+      "location": "Gujarat, India",
+      "type": "Full-time",
+      "description": "Lead extrusion line setup, parameter optimization, and cross-functional trials with QA and tooling.",
+      "requirements": [
+        "Bachelor's in Polymer / Mechanical Engineering",
+        "3+ years extrusion experience",
+        "Strong SOP and safety mindset",
+        "Comfortable with shift coordination"
+      ]
+    },
+    {
+      "id": "qa-executive",
+      "title": "Quality Assurance Executive",
+      "location": "Gujarat, India",
+      "type": "Full-time",
+      "description": "Execute incoming, in-process, and final inspections with accurate batch documentation.",
+      "requirements": [
+        "Diploma or degree in relevant field",
+        "Familiarity with AQL sampling",
+        "Attention to detail and audit readiness",
+        "Good communication in English and Hindi"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "quote": "Pacnix India consistently hits our dimensional tolerances — our automatic filling line downtime dropped noticeably after we switched suppliers.",
+      "name": "Priya Mehta",
+      "role": "Plant Manager",
+      "company": "NorthStar Personal Care"
+    },
+    {
+      "id": "2",
+      "quote": "Their QA team documents every lot thoroughly. Audits are smoother and our regulatory partners appreciate the traceability.",
+      "name": "Daniel Okafor",
+      "role": "Quality Lead",
+      "company": "Helix Pharma Packaging"
+    },
+    {
+      "id": "3",
+      "quote": "From first drawing to production samples, communication was proactive. The custom shoulder design matched our brand cap perfectly.",
+      "name": "Ananya Rao",
+      "role": "Packaging Engineer",
+      "company": "Velvet Cosmetics"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "1",
+      "question": "What materials does Pacnix India manufacture with?",
+      "answer": "We primarily work with HDPE, LDPE, and specialty polymer grades selected for flexibility, chemical resistance, and regulatory requirements. Material selection is confirmed during technical review."
+    },
+    {
+      "id": "2",
+      "question": "Do you offer custom tube diameters and lengths?",
+      "answer": "Yes. Custom tooling and dimension programs are available subject to MOQ and lead time. Share your artwork, cap specification, and filling parameters to begin feasibility."
+    },
+    {
+      "id": "3",
+      "question": "What is your typical lead time?",
+      "answer": "Standard SKUs often ship within agreed windows after order confirmation. Custom programs require tooling and trial timelines — our team provides a project schedule at quotation stage."
+    },
+    {
+      "id": "4",
+      "question": "Can you support export documentation?",
+      "answer": "We prepare batch documentation, certificates of analysis where applicable, and packing lists aligned with export requirements. Discuss destination market needs during onboarding."
+    },
+    {
+      "id": "5",
+      "question": "How do I request samples?",
+      "answer": "Use the contact or product enquiry form with your SKU interest and shipping details. Sample availability depends on material grade and current production schedule."
+    }
+  ]
+}

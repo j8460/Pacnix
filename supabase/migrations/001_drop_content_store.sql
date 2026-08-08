@@ -1,0 +1,2 @@
+-- Drop legacy JSON blob table (only if migrating from old schema)
+-- DROP TABLE IF EXISTS content_store;
